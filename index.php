@@ -219,7 +219,7 @@
             border-radius: 3px;
             margin: 6px;
             color: #ffffff;
-            transition: transform 0.2s;
+            transition: transform 0.3s;
         }
 
         .isi-list button:nth-child(1) {
@@ -230,7 +230,7 @@
             border-radius: 3px;
             margin: 6px;
             color: #ffffff;
-            transition: transform 0.2s;
+            transition: transform 0.3s;
         }
 
         .isi-list button:nth-child(2):hover {
